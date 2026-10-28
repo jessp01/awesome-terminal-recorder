@@ -134,7 +134,7 @@ _script_, from util-linux, makes a typescript of everything on your terminal ses
 
 ### [trecs](https://github.com/solworktech/trecs)
 
-*Terminal session recorder, player (web & terminal) and editor. Features: command navigation, in-player search, annotations, audio and Markdown & GIF export.*
+*Terminal session recorder, player (web & terminal) and editor. Features: command navigation, in-player search, annotations, audio, images, Markdown & GIF export.*
 
 [![trecs walkthrough](https://trecs.run/v1/recordings/5bb6689c-164b-4ca6-9057-087560147134/preview.gif)](https://trecs.run/watch/5bb6689c-164b-4ca6-9057-087560147134)
 
